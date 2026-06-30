@@ -1,0 +1,11 @@
+name = input("What is your name? ")
+print("Hello,", name)
+
+age = input("What is your age? ")
+print("You are", age, "years old.")
+country = input("Which country are you from? ")
+print("You are from", country)
+favorite_programming_language = input("What is your favorite programming language? ")
+print("Your favorite programming language is", favorite_programming_language)
+dream_job = input("What is your dream job? ")
+print("Your dream job is to become a", dream_job)

@@ -1,0 +1,6 @@
+print("My name is Olamide.")
+print("I live in Nigeria.")
+print("I am learning Python.")
+print("I want to become a data analyst and a software engineer.")
+print("I am and engineer and a data scienc enthusiast.")
+print("I can write code for python progrramming language.")

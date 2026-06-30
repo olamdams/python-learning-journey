@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("Hello, World!")
+print("My name is Olamide.")
+print('I want to become a data analyst and a software engineer.')
+print('hello, my name is Olamide and I am a data analyst and a software engineer.')
