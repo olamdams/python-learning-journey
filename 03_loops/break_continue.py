@@ -1,9 +1,11 @@
 for number in range(1, 11):
     if number == 7:
         break
-   # print(number)
+    print(number)
 
- for number in range(1, 11):
+
+
+for number in range(1, 11):
     if number == 5:
         continue
     print(number)
