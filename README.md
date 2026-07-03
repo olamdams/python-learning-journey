@@ -276,13 +276,13 @@ python-learning-journey/
 
 ## Remaining Modules
 
-- [ ] Loops
-- [ ] Functions
-- [ ] Data Structures
-- [ ] File Handling
-- [ ] Error Handling
-- [ ] OOP
-- [ ] Python Libraries
+- [x] Loops
+- [x] Functions
+- [x] Data Structures
+- [x] File Handling
+- [x] Error Handling
+- [x] OOP
+- [x] Python Libraries
 - [ ] Data Analysis
 - [ ] Machine Learning
 
